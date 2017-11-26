@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  {% include head.html %} 
+<link rel="stylesheet" href="{{site.baseurl}}/flipclock.css" />
+<script src="{{site.baseurl}}/flipclock.js"></script>
+<script>
+ // moment.min.js
+ {% include moment.min.js %}
+</script>
+  <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
+  </head>
+  <body id="page-top">
+    <div id="container" data-role="page">
+    {% include nav.html %}
+    <div id="content"  class="ui-content">
+    {{ content }}
+    </div><!-- content -->
+    {% include footer.html %}
+    </div><!-- container -->
+  </body>
+</html>
