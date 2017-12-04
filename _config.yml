@@ -10,7 +10,7 @@ mentors_list: "TBD"
 discussion_section_times: "2pm, 4pm or 5pm"
 
 
-github_url: https://github.com/UCSB-CS56-F17/ucsb-cs56-w18.github.io
+github_url: https://github.com/ucsb-cs56-w18/ucsb-cs56-w18.github.io
 mentor_url: https://ucsb-cs56-pconrad-mentors.github.io
 
 on_campus: http://proquest.safaribooksonline.com
@@ -36,7 +36,12 @@ cal_dates: >
   {"label":"First day of classes", "date":"2018-01-08" },
   {"label":"Univ Holiday", "date":"2018-01-15" },
   {"label":"Last day to drop classes","date":"2018-02-05" },
+  {"label":"S18 Reg Pass 1 starts","date":"2018-02-05" },
+  {"label":"S18 Reg Pass 1 ends","date":"2018-02-17" },  
   {"label":"Univ Holiday", "date":"2018-02-19" },
+  {"label":"S18 Reg Pass 2 starts", "date":"2018-02-20" },
+  {"label":"S18 Reg Pass 2 ends", "date":"2018-03-09" },
+  {"label":"S18 Reg Pass 3 starts", "date":"2018-03-12" },
   {"label":"Last day of instruction", "date":"2017-03-16" },
   {"label":"Final Exams Start", "date":"2017-03-19" },
   {"label":"Final Exams End", "date":"2017-03-23" }
