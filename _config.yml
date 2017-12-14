@@ -25,15 +25,15 @@ legacy_wiki_name: "56wiki"
 
 submit_cs_course: CS56_f18
 
-start_week: 1
+start_week: 0
 start_date: 2018-01-07 00:00:00.00-8:00
-num_weeks: 10
+num_weeks: 11
 extra_exam_week: true
 sections: "4pm,&nbsp;5pm or&nbsp;6pm"
 
 cal_dates: >
   [
-  {"label":"First day of classes", "date":"2018-01-08" },
+  {"label":"First day of classes", "date":"2018-01-16" },
   {"label":"Univ Holiday", "date":"2018-01-15" },
   {"label":"Last day to drop classes","date":"2018-02-05" },
   {"label":"S18 Reg Pass 1 starts","date":"2018-02-05" },
