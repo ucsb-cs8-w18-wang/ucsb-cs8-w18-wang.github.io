@@ -1,27 +1,22 @@
-course: "CS56"
+course: "CSxx"
 qtr: "W18"
 quarter: "Winter 2018"
-piazza_url: https://piazza.com/class/j9fz2m9kep655
-gauchospace_course_page: https://gauchospace.ucsb.edu/courses/course/view.php?id=19859
+piazza_url: https://piazza.com/class/fillThisIn
+gauchospace_course_page: https://gauchospace.ucsb.edu/courses/course/view.php?id=tbd1234
 
-ta_list: "Seemantha and Audrey"
-ta_list_full: "Seemantha Saha and Audrey Dutcher"
-mentors_list: "TBD"
-discussion_section_times: "2pm, 4pm or 5pm"
-
+# ta_list: "Chris, Taylor and Jordan"
+ta_list: "list of TAs first names goes here"
+# ta_list_full: "Chris Washington, Taylor Smith and Jordan Adams"
+ta_list_full: "list of TA full names goes here"
+# mentors_list: "TBD"
+#discussion_section_times: "2pm, 4pm or 5pm"
+discussion_section_times: "fill this in"
 
 github_url: https://github.com/ucsb-cs56-w18/ucsb-cs56-w18.github.io
 mentor_url: https://ucsb-cs56-pconrad-mentors.github.io
 
 on_campus: http://proquest.safaribooksonline.com
 off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048
-hfj_url: book/programming/java/0596009208
-hfdp_url: book/software-engineering-and-development/patterns/0596007124 
-
-
-legacy_wiki_url: https://foo.cs.ucsb.edu/56wiki
-legacy_wiki_name: "56wiki"
-
 
 submit_cs_course: CS56_f18
 
@@ -48,22 +43,16 @@ cal_dates: >
   ]
 
 
-legacy_wiki_name: 56wiki
-legacy_wiki_url: "https://foo.cs.ucsb.edu/56wiki" 
-
-
-hfj_chapter_url_prefix: "http://ucsb-cs56-pconrad.github.io/hfj/HFJ_Chapter_"
-hfdp_chapter_url_prefix: "http://ucsb-cs56-pconrad.github.io/hfdp/HFDP_Chapter_"
 
 kramdown:
    parse_block_html: true
 
-
 exclude:
-   - vendor
-   - _exam/e02/cs56_m16_e02/code
-   - _exam/e01/cs56_f16_e01/code
-
+   - _hwk/keep
+   - _lab/keep
+   - _exam/keep
+   - _lectures/keep
+   - _info/keep	
 
 timezone: America/Los_Angeles
 
