@@ -48,11 +48,12 @@ kramdown:
    parse_block_html: true
 
 exclude:
+   - vendor
    - _hwk/keep
    - _lab/keep
    - _exam/keep
    - _lectures/keep
-   - _info/keep	
+   - _info/keep        
 
 timezone: America/Los_Angeles
 
