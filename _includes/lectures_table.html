@@ -1,0 +1,15 @@
+<table id="lectures_table" class="asn_table">
+<tr>
+  <th>num</th>
+  <th>date</th>
+  <th>description</th>
+</tr>
+
+{% for lect in site.lectures %}
+<tr>
+  <td><a href="{{lect.url}}">{{ lect.num }}</a></td>
+  <td>{{ lect.date | date: "%a %m/%d" }}</td>
+  <td>{{ lect.desc }}</td>
+</tr>
+{% endfor %}
+</table>
