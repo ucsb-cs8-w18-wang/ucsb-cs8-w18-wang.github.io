@@ -4,15 +4,12 @@ quarter: "Winter 2018"
 piazza_url: piazza.com/ucsb/winter2018/cmpsc8/home
 gauchospace_course_page: https://gauchospace.ucsb.edu/courses/course/view.php?id=20517
 
-# ta_list: "Chris, Taylor and Jordan"
 ta_list: "Sanjana, Kun, and Xiyou"
-# ta_list_full: "Chris Washington, Taylor Smith and Jordan Adams"
 ta_list_full: "Sanjana Sahayaraj, Kun Wan, and Xiyou Zhou"
-# mentors_list: "Natasha Lee, Sean Shelton, and Joel Bagan"
-#discussion_section_times: "2pm, 4pm or 5pm"
+mentors_list: "Natasha Lee, Sean Shelton, and Joel Bagan"
 discussion_section_times: "10am, 11am, or 12pm"
 
-github_url: https://github.com/ucsb-cs56-w18/ucsb-cs56-w18.github.io
+github_url: https://github.com/ucsb-cs8-w18-wang/ucsb-cs8-w18-wang.github.io
 #mentor_url: https://ucsb-cs56-pconrad-mentors.github.io
 mentor_url:
 
@@ -22,7 +19,7 @@ off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048
 #submit_cs_course: CS56_f18
 submit_cs_course:
 
-start_week: 0
+start_week: 1
 start_date: 2018-01-15 00:00:00.00-8:00
 num_weeks: 9
 extra_exam_week: true
@@ -48,6 +45,7 @@ cal_dates: >
 
 kramdown:
    parse_block_html: true
+   default_lang: python
 
 exclude:
    - vendor
