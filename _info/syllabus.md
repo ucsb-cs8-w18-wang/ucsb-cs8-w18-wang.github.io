@@ -11,7 +11,7 @@ Basic Facts
 * **Instructor**:  [Richert Wang](http://www.cs.ucsb.edu/~richert)
    * Email is richert@ucsb.edu, BUT please use [Piazza](https://piazza.com/class/jc6t3qhjbc2pb) for course related communication.
 * **Lecture**: TuTh 2:30pm-3:45pm BUCHN1920, ATTENDANCE REQUIRED.
-* **TAs**:  {{site.ta_list_full}} (contact via Piazza.com)
+* **TAs**:  {{site.ta_list_full}} (contact via Piazza)
 * **Lab** (50 minute discussion section) Wednesdays 10am, 11am , 12pm - Phelps 3525, ATTENDANCE REQUIRED.                                         
 * Office Hours: Tuesday 3:30pm - 4:30pm, Thursday 12pm - 1pm in HFH 1151
 
@@ -40,7 +40,7 @@ Introduction to computer program development for students with little to no prog
 * Attendance is required at all lectures and labs (discussion sections).
   * I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable. Litigating whether each of these is "excused" or not isn't a good use of anyone's time, so instead we will drop the lowest two grades from everyone's homework. This way, absenses (or failure to submit homework) does not unduly penalize your grade unless it becomes excessive.
 * <strong>You</strong> must turn in your homework in lecture the day that it is due.
-* We will use the gradescope system (https://gradescope.com) this quarter. More instructions on gradescope will be given in lecture and lab assignments.
+* We will use the [gradescope system](https://gradescope.com) this quarter. More instructions on gradescope will be given in lecture and lab assignments.
 * Any regrade requests must be made on Gradescope and we will not consider a regrade request one week after the assignment grades are distributed back to students.
 
 You may NOT: 
@@ -53,7 +53,7 @@ You may NOT:
 
 This class serves as an <strong>introduction to programming and computer science</strong>. We will use the Python language and write Python programs throughout the course. We will be using Python 3 in the class. The Python Interpreter can be downloaded for free from Python's download page (http://python.org/downloads/). I encourage everyone to install Python on their local computer in order to practice programming in your own time.
 
-If you find yourself working on a computer that doesn't have Python installed, you can run simple Python code (along with several other languages) on the web (https://ideone.com). This is not a requirement for the course, but you may find it to be a useful tool.
+If you find yourself working on a computer that doesn't have Python installed, you can run simple Python code (along with several other languages) on the web with tools such as [IDEOne](https://ideone.com). This is not a requirement for the course, but you may find it to be a useful tool.
 
 Learning how to program requires <strong>A LOT</strong> of practice like learning any new skill. Making mistakes is an essential part of learning as long as you learn from them! Questions like "I wonder what will happen if I do this..." or "How will Python behave in this case..." is a great way to investigate and observe the functionality and limitations of a programming language (there are many programming available to software developers and each have their specific pros and cons that may be the best choice for the problems you are trying to solve).
 
@@ -64,7 +64,8 @@ Programming is the study of <strong>algorithms</strong>, i.e. step-by-step instr
 ## Why Python?
 
 * Python is a popular choice for introductory programming courses since it is easier to learn than C/C++ and Java.
-* Python is a largely supported language and is widely used in academia and industry. There is a large support for Python that comes with the language itself and 3rd party libraries you can use for many types of applications.
+* Python is a largely supported language and is widely used in academia and industry.
+* There is a lot of support for Python that comes with the language itself and 3rd party libraries other developers created that you can use for many types of applications.
 
 # What you need to learn to become a skilled beginning level programmer
 
@@ -127,25 +128,21 @@ So, what is it that you need to know to be a skilled beginning-level programmer 
   </tr>
 </table>
 
-## Course Grades
+# Course Grades
 
 Letter grades will be determined by the end of the course after all labs, homeworks, and exams have been computer. I can say that I will not grade harder than a traditional straight scale (90% = A-, 80% = B-, etc.). However, I will adjust the letter grades accordingly based on your overall performance at the end of the course. If you are concerned about your grade in the class, I encourage you to discuss the matter with me during my office hours. Please come talk to me sooner rather than later so there will be some time where we can help you succeed in the course.
 
 Your course grade will be determined as follows:
 
-| Grade Item                                                              | Percentage of Final Grade |
-|-------------------------------------------------------------------------|---------------------------|
-| Midterm 1                                                               | 15 %                      |
-| Midterm 2                                                               | 15 %                      | 
-| Final                                                                   | 30 %                      |
-| Hwks                                                                    | 10 %                      |
-| Labs                                                                    | 30 %                      | 
+| Grade Item          | Percentage of Final Grade |
+|---------------------|---------------------------|
+| Midterm 1           | 15 %                      |
+| Midterm 2           | 15 %                      | 
+| Final               | 30 %                      |
+| Homeworks           | 10 %                      |
+| Labs                | 30 %                      | 
 
-<div style="page-break-before:always;">
-&nbsp;
-</div>
-
-## Late work
+# Late work
 
 I will consider late submissions <strong>only</strong> for medical or family emergencies where documentation can be provided. This does not include overwhelming workload from other courses, scheduling conflicts, or vacation plans.
 
@@ -157,12 +154,12 @@ I will consider late submissions <strong>only</strong> for medical or family eme
 Accommodations for disabilities
 -------------------------------
 
-Students with disabilities may request academic accommodations for exams online through the UCSB Disabled Students Program at http://dsp.sa.ucsb.edu/. Please make your requests for exam accommodations through the online system as early in the quarter as possible to ensure proper arrangement.
+Students with disabilities may request academic accommodations for exams online through the UCSB Disabled Students Program at [http://dsp.sa.ucsb.edu/](http://dsp.sa.ucsb.edu/). Please make your requests for exam accommodations through the online system as early in the quarter as possible to ensure proper arrangement.
 
 Managing stress
 ---------------
 
-Personal concerns such as stress, anxiety, relationships, depression, cultural differences, can interfere with the ability of students to succeed and thrive. For helpful resources, please contact UCSB Counseling & Psychological Services (CAPS) at 805-893-4411 or visit http://counseling.sa.ucsb.edu/ .
+Personal concerns such as stress, anxiety, relationships, depression, cultural differences, can interfere with the ability of students to succeed and thrive. For helpful resources, please contact UCSB Counseling & Psychological Services (CAPS) at 805-893-4411 or visit [http://counseling.sa.ucsb.edu/](http://counseling.sa.ucsb.edu/).
 
 Responsible scholarship
 -----------------------
