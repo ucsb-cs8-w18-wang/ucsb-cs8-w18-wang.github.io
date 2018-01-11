@@ -3,6 +3,7 @@ qtr: "W18"
 quarter: "Winter 2018"
 piazza_url: https://piazza.com/class/jc6t3qhjbc2pb
 gauchospace_course_page: https://gauchospace.ucsb.edu/courses/course/view.php?id=20517
+gradescope_class_url: https://gradescope.com/courses/14094
 
 ta_list: "Sanjana, Kun, and Xiyou"
 ta_list_full: "Sanjana Sahayaraj, Kun Wan, and Xiyou Zhou"
@@ -20,7 +21,7 @@ off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048
 submit_cs_course:
 
 start_week: 1
-start_date: 2018-01-15 00:00:00.00-8:00
+start_date: 2018-01-14 00:00:00.00-8:00
 num_weeks: 9
 extra_exam_week: true
 sections: "2:30pm"
