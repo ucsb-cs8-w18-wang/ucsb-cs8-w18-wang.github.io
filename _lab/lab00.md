@@ -60,11 +60,9 @@ So, one of the first steps will often be to bring up a "Terminal" window&mdash;a
 
 Here's how:
 
-* Find the Applications Menu at the top left of the screen
-* Select System Tools, then Terminal (the icon should look like the image shown at right)
-* A Terminal Window should pop up, looking something like the one shown below
-
-![terminal window](TerminalSession.png)
+* Find the Applications Menu at the top left of the screen.
+* Select System Tools, then Terminal (the icon should look like the image shown at right).
+* A Terminal Window should pop up.
 
 ## Step 3: Create some directories
 
@@ -206,9 +204,7 @@ I have manually added everyone (using your @umail.ucsb.edu accounts) currently e
 
 The lab assignment "Lab 00" should appear in your Gradescope dashboard in CMPSC 8. If you haven't submitted anything for this assignment yet, Gradescope will prompt you to upload your files. This prompt is shown below:
 
-<div style="float:right; width:100px; border: 1px solid #063;" markdown="1">
 ![Gradescope upload](Gradescope_upload.png)
-</div>
 
 You either can navigate to your file(s) or "drag-and-drop" them into the "Submit Programming Assignment" window.
 
@@ -216,9 +212,7 @@ If you already submitted something on Gradescope, it will take you to their "Aut
 
 For this lab, if everything is correct, you'll see a successful submission passing all of the autograder tests shown below.
 
-<div style="float:right; width:100px; border: 1px solid #063;" markdown="1">
 ![Gradescope results](Gradescope_results.png)
-</div>
 
 If the tests don't pass, you may get some error message that may or may not be obvious at this point. Don't worry - if the tests didn't pass, take a minute to think if your print statement is <strong>EXACTLY</strong> like stated in the lab instructions (including the same capitalization, spaces, punctuation, etc.) and the file name is <strong>EXACTLY</strong> "hello.py". If your tests didn't pass and you're still not sure why you're getting the error, feel free to ask your TA. 
 
