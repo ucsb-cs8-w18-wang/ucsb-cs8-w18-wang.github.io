@@ -34,7 +34,7 @@ Introduction to computer program development for students with little to no prog
 
 ## A few course policies in brief
 
-* If you are registered for another UCSB course that overlaps with this one, you MUST HAVE specific written permission from both instructors, or I am within my rights to give you a failing grade on any work you miss as a result, and will NOT make any accommodations for you. This includes exams.
+* If you are registered for another UCSB course that overlaps with this one, you MUST HAVE specific written permission from both instructors, or I am within my rights to give you a failing grade on any work you miss as a result, and will NOT make any accommodations for you.
 * Collaboration is only permitted when specifically allowed for—otherwise, you must do your own work.
    * On most homework assignments you may collaborate with at most one other person (who must be named).
 * Attendance is required at all lectures and labs (discussion sections).
@@ -57,7 +57,7 @@ If you find yourself working on a computer that doesn't have Python installed, y
 
 Learning how to program requires <strong>A LOT</strong> of practice like learning any new skill. Making mistakes is an essential part of learning as long as you learn from them! Questions like "I wonder what will happen if I do this..." or "How will Python behave in this case..." is a great way to investigate and observe the functionality and limitations of a programming language (there are many programming available to software developers and each have their specific pros and cons that may be the best choice for the problems you are trying to solve).
 
-I find the best way to practice is to <strong>rapid prototype</strong> constantly. Writing simple snippets of code to test and confirm your understanding allows you to 1) practice typing out code, which makes you more comfortable with the language and 2) understanding the specific behavior of the programming language functionality.
+I find the best way to practice is to <strong>rapid prototype</strong> constantly. Writing simple snippets of code to test and confirm your understanding allows you to 1) practice typing out code, which makes you more comfortable with the language and 2) understand the specific behavior of the programming language functionality.
 
 Programming is the study of <strong>algorithms</strong>, i.e. step-by-step instructions telling the computer what it needs to do. There are <strong>MANY</strong> algorithms that can solve a problem and it's important to consider the computational time, memory space, and correctness of the algorithms you create.
 
@@ -147,7 +147,7 @@ Your course grade will be determined as follows:
 I will consider late submissions <strong>only</strong> for medical or family emergencies where documentation can be provided. This does not include overwhelming workload from other courses, scheduling conflicts, or vacation plans.
 
 * There will not be any make ups for examinations.
-* Two of the lowest homework scores will be dropped. Late homework submissions will not be accepted. However, even if you know you will not be able to submit a homework, I highly encourage you to complete it anyways since the homeworks will help prepare you for the examinations.
+* Two of the lowest homework scores will be dropped. Late homework submissions will not be accepted. However, even if you know you will not be able to submit a homework on time, I highly encourage you to complete it anyways since the homeworks will help prepare you for the examinations.
 * All labs must be submitted by the due date. Depending on the case, your TA may consider grading your lab with a late penalty (and usually for cases where the submission was done very soon after the deadline). However, this is not an official policy and you risk receiving a zero for a late lab submission. 
 
 
