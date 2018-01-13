@@ -177,7 +177,7 @@ We will save the file under the name `hello.py`&mdash;it is <strong>very importa
 That's it!   Now, you can also add, on the first line, a *comment* with your name, and information about the course, for example:
 
 ```python
-# Chris Gaucho, for CMPSC 8, Fall 2017
+# Chris Gaucho, for CMPSC 8, Winter 2018
 print ('Hello, World!')
 ```
 
