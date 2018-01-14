@@ -7,7 +7,7 @@ ready: false
 Basic Facts
 -----------
 
-* **Course Web Site**: <http://ucsb-cs8.github.io>
+* **Course Web Site**: <https://ucsb-cs8-w18-wang.github.io/>
 * **Instructor**:  [Richert Wang](http://www.cs.ucsb.edu/~richert)
    * Email is richert@ucsb.edu, BUT please use [Piazza](https://piazza.com/class/jc6t3qhjbc2pb) for course related communication.
 * **Lecture**: TuTh 2:30pm-3:45pm BUCHN1920, ATTENDANCE REQUIRED.
@@ -55,9 +55,9 @@ This class serves as an <strong>introduction to programming and computer science
 
 If you find yourself working on a computer that doesn't have Python installed, you can run simple Python code (along with several other languages) on the web with tools such as [IDEOne](https://ideone.com). This is not a requirement for the course, but you may find it to be a useful tool.
 
-Learning how to program requires <strong>A LOT</strong> of practice like learning any new skill. Making mistakes is an essential part of learning as long as you learn from them! Questions like "I wonder what will happen if I do this..." or "How will Python behave in this case..." is a great way to investigate and observe the functionality and limitations of a programming language (there are many programming available to software developers and each have their specific pros and cons that may be the best choice for the problems you are trying to solve).
+Learning how to program requires <strong>A LOT</strong> of practice like learning any new skill. Making mistakes is an essential part of learning as long as you learn from them! Questions like "I wonder what will happen if I do this..." or "How will Python behave in this case..." is a great way to investigate and observe the functionality and limitations of a programming language (there are many programming languages available to software developers and each have their specific pros and cons that may or may not be the best choice for the problems you are trying to solve).
 
-I find the best way to practice is to <strong>rapid prototype</strong> constantly. Writing simple snippets of code to test and confirm your understanding allows you to 1) practice typing out code, which makes you more comfortable with the language and 2) understand the specific behavior of the programming language functionality.
+I find the best way to practice is to <strong>rapid prototype</strong> constantly. Writing simple snippets of code to test and confirm your understanding allows you to 1) practice typing out code, which makes you more comfortable with the language and 2) solidify your understanding of the specific behavior of the programming language functionality.
 
 Programming is the study of <strong>algorithms</strong>, i.e. step-by-step instructions telling the computer what it needs to do. There are <strong>MANY</strong> algorithms that can solve a problem and it's important to consider the computational time, memory space, and correctness of the algorithms you create.
 
@@ -130,7 +130,7 @@ So, what is it that you need to know to be a skilled beginning-level programmer 
 
 # Course Grades
 
-Letter grades will be determined by the end of the course after all labs, homeworks, and exams have been computer. I can say that I will not grade harder than a traditional straight scale (90% = A-, 80% = B-, etc.). However, I will adjust the letter grades accordingly based on your overall performance at the end of the course. If you are concerned about your grade in the class, I encourage you to discuss the matter with me during my office hours. Please come talk to me sooner rather than later so there will be some time where we can help you succeed in the course.
+Letter grades will be determined by the end of the course after all labs, homeworks, and exams have been computed. I can say that I will not grade harder than a traditional straight scale (90% = A-, 80% = B-, etc.). However, I will adjust the letter grades accordingly based on your overall performance at the end of the course. If you are concerned about your grade in the class, I encourage you to discuss the matter with me during my office hours. Please come talk to me sooner rather than later so there can be some time where we can help you succeed in the course.
 
 Your course grade will be determined as follows:
 
@@ -141,6 +141,10 @@ Your course grade will be determined as follows:
 | Final               | 30 %                      |
 | Homeworks           | 10 %                      |
 | Labs                | 30 %                      | 
+
+In general, homework(s) will be assigned weekly throughout the quarter, and distributed to the class in lecture on Tuesdays, and are due the following Tuesday in lecture.
+
+There will be weekly labs assigned throughout the quarter. You will work on the labs during your assigned lab section, and most likely on your own time outside of your assigned lab section. Generally, labs will be due on Sundays @ 11:59pm (please be sure to check the due dates for all assignments on the course page and calendar).
 
 # Late work
 
