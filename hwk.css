@@ -1,6 +1,10 @@
 ---
 layout: null
----	    
+---     
+
+{% include jekyll-github.css %}
+
+
 /* hwk_header.css */
 
 ol li table {
@@ -156,12 +160,30 @@ ol li ol li {
    list-style-type: lower-alpha;
 }
 
+ol li ol li ol li{
+   list-style-type: lower-roman;
+}
+
+
+ol li ol li ul li {
+    list-style-type: circle;
+}
+
+ol li ul li {
+    list-style-type: circle;
+}
+
+ul li {
+    list-style-type: circle;
+}
+
+
 div.not-ready-warning {
    width:80%;
    margin-left:auto;
    margin-right:auto;
    padding:1em 1em 1em 1em;
-   margin:1em 1em 1em 1em;		     
+   margin:1em 1em 1em 1em;         
    border: 10px outset red;
    color: black;
    background-color: #ffc;
@@ -174,11 +196,11 @@ div.not-ready-warning h2, h3 {
 
 table.asn_table tr.not-ready td.asn_ready {
   font-weight:bold;
-  color: red;		
+  color: red;   
 }
 
 table.asn_table tr.ready td.asn_ready {
-  color: green;		
+  color: green;   
 }
 
 td.h03-table table {
