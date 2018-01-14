@@ -24,7 +24,7 @@ start_week: 1
 start_date: 2018-01-14 00:00:00.00-8:00
 num_weeks: 9
 extra_exam_week: true
-sections: "2:30pm"
+sections: "10am, 11am, 12pm"
 
 cal_dates: >
   [
