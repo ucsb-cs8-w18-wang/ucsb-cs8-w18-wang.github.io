@@ -38,7 +38,7 @@ Introduction to computer program development for students with little to no prog
 * Collaboration is only permitted when specifically allowed for—otherwise, you must do your own work.
    * On most homework assignments you may collaborate with at most one other person (who must be named).
 * Attendance is required at all lectures and labs (discussion sections).
-  * I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable. Litigating whether each of these is "excused" or not isn't a good use of anyone's time, so instead we will drop the lowest two grades from everyone's homework. This way, absenses (or failure to submit homework) does not unduly penalize your grade unless it becomes excessive.
+  * I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable. Litigating whether each of these is "excused" or not isn't a good use of anyone's time, so instead we will drop the lowest four grades from everyone's homework. This way, absenses (or failure to submit homework) does not unduly penalize your grade unless it becomes excessive.
 * <strong>You</strong> must turn in your homework in lecture the day that it is due.
 * We will use the [gradescope system](https://gradescope.com) this quarter. More instructions on gradescope will be given in lecture and lab assignments.
 * Any regrade requests must be made on Gradescope and we will not consider a regrade request one week after the assignment grades are distributed back to students.
@@ -151,7 +151,7 @@ There will be weekly labs assigned throughout the quarter. You will work on the 
 I will consider late submissions <strong>only</strong> for medical or family emergencies where documentation can be provided. This does not include overwhelming workload from other courses, scheduling conflicts, or vacation plans.
 
 * There will not be any make ups for examinations.
-* Two of the lowest homework scores will be dropped. Late homework submissions will not be accepted. However, even if you know you will not be able to submit a homework on time, I highly encourage you to complete it anyways since the homeworks will help prepare you for the examinations.
+* Four of the lowest homework scores will be dropped. Late homework submissions will not be accepted. However, even if you know you will not be able to submit a homework on time, I highly encourage you to complete it anyways since the homeworks will help prepare you for the examinations.
 * All labs must be submitted by the due date. Depending on the case, your TA may consider grading your lab with a late penalty (and usually for cases where the submission was done very soon after the deadline). However, this is not an official policy and you risk receiving a zero for a late lab submission. 
 
 
@@ -180,4 +180,3 @@ the instructor's discretion, within the bounds of UC policy.
 
 (end of syllabus)
 
-</div>
