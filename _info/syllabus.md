@@ -134,13 +134,13 @@ Letter grades will be determined by the end of the course after all labs, homewo
 
 Your course grade will be determined as follows:
 
-| Grade Item          | Percentage of Final Grade |
-|---------------------|---------------------------|
-| Midterm 1           | 15 %                      |
-| Midterm 2           | 15 %                      | 
-| Final               | 30 %                      |
-| Homeworks           | 10 %                      |
-| Labs                | 30 %                      | 
+| Grade Item          				| Percentage of Final Grade |
+|-----------------------------------|---------------------------|
+| Midterm 1           				| 15 %                      |
+| Midterm 2           				| 15 %                      | 
+| Final (Tues. 3/20, 4pm - 7pm)     | 30 %                      |
+| Homeworks           				| 10 %                      |
+| Labs                				| 30 %                      | 
 
 In general, homework(s) will be assigned weekly throughout the quarter, and distributed to the class in lecture on Tuesdays, and are due the following Tuesday in lecture.
 
