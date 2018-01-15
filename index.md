@@ -1,5 +1,5 @@
 ---
-title: CS56, Fall 2017, pconrad
+title: CS8, Winter 2018, richert
 ---
 
 # {{site.course}}, {{site.quarter}}

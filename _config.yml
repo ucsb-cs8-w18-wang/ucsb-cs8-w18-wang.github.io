@@ -17,7 +17,6 @@ mentor_url:
 on_campus: http://proquest.safaribooksonline.com
 off_campus: http://proquest.safaribooksonline.com.proxy.library.ucsb.edu:2048
 
-#submit_cs_course: CS56_f18
 submit_cs_course:
 
 start_week: 1
