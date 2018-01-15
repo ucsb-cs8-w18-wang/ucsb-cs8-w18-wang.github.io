@@ -136,8 +136,8 @@ Your course grade will be determined as follows:
 
 | Grade Item          				| Percentage of Final Grade |
 |-----------------------------------|---------------------------|
-| Midterm 1           				| 15 %                      |
-| Midterm 2           				| 15 %                      | 
+| Midterm 1 (Thurs. 2/8)          	| 15 %                      |
+| Midterm 2 (Thurs. 3/1)          	| 15 %                      | 
 | Final (Tues. 3/20, 4pm - 7pm)     | 30 %                      |
 | Homeworks           				| 10 %                      |
 | Labs                				| 30 %                      | 
@@ -177,6 +177,4 @@ Standard Disclaimer
 
 This syllabus is as accurate as possible, but is subject to change at
 the instructor's discretion, within the bounds of UC policy.
-
-(end of syllabus)
 
