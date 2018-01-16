@@ -214,7 +214,7 @@ For this lab, if everything is correct, you'll see a successful submission passi
 
 ![Gradescope results](Gradescope_results.png)
 
-If the tests don't pass, you may get some error message that may or may not be obvious at this point. Don't worry - if the tests didn't pass, take a minute to think if your print statement is <strong>EXACTLY</strong> like stated in the lab instructions (including the same capitalization, spaces, punctuation, etc.) and the file name is <strong>EXACTLY</strong> 'hello.py'. If your tests didn't pass and you're still not sure why you're getting the error, feel free to ask your TA. 
+If the tests don't pass, you may get some error message that may or may not be obvious at this point. Don't worry - if the tests didn't pass, take a minute to think if your print statement is <strong>EXACTLY</strong> like stated in the lab instructions (including the same capitalization, spaces, punctuation, etc.) and the file name is <strong>EXACTLY</strong> `hello.py`. If your tests didn't pass and you're still not sure why you're getting the error, feel free to ask your TA. 
 
 ## Final Step:  Log Out
 
