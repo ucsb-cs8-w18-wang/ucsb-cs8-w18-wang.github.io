@@ -1,7 +1,7 @@
 ---
 title: "Syllabus, CMPSC 8, Winter 2018"
 layout: handout
-ready: false
+ready: true
 ---
 
 Basic Facts
