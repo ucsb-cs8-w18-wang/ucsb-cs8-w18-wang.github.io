@@ -12,7 +12,7 @@ Basic Facts
    * Email is richert@ucsb.edu, BUT please use [Piazza](https://piazza.com/class/jc6t3qhjbc2pb) for course related communication.
 * **Lecture**: TuTh 2:00pm-3:15pm BUCHN1920, ATTENDANCE REQUIRED.
 * **TAs**:  {{site.ta_list_full}} (contact via Piazza)
-* **Lab** (50 minute discussion section): Wednesdays 10am, 11am , 12pm - Phelps 3525, ATTENDANCE REQUIRED.                                         
+* **Lab** (50 minute discussion section): Wednesdays 9am, 10am, 11am , 12pm - Phelps 3525, ATTENDANCE REQUIRED.                                         
 * **Office Hours**: Tuesday 3:30pm - 4:30pm, Thursday 12pm - 1pm in HFH 1151
 
 # Required Resources
