@@ -202,7 +202,7 @@ Next, we'll try submitting our program to Gradescope, which is a new autograder 
 
 I have manually added everyone (using your @umail.ucsb.edu accounts) currently enrolled in the course to the Gradescope system. You should have received an email from the Gradescope system asking you to create a password. Once you follow the instructions to set your password, you should have access to the autograding system. You should see "CMPSC 8" in your Winter 2018 Courses.
 
-The lab assignment "Lab 00" should appear in your Gradescope dashboard in CMPSC 8. If you haven't submitted anything for this assignment yet, Gradescope will prompt you to upload your files. This prompt is shown below:
+The lab assignment "Lab00" should appear in your Gradescope dashboard in CMPSC 8. If you haven't submitted anything for this assignment yet, Gradescope will prompt you to upload your files. This prompt is shown below:
 
 ![Gradescope upload](Gradescope_upload.png)
 
@@ -214,7 +214,7 @@ For this lab, if everything is correct, you'll see a successful submission passi
 
 ![Gradescope results](Gradescope_results.png)
 
-If the tests don't pass, you may get some error message that may or may not be obvious at this point. Don't worry - if the tests didn't pass, take a minute to think if your print statement is <strong>EXACTLY</strong> like stated in the lab instructions (including the same capitalization, spaces, punctuation, etc.) and the file name is <strong>EXACTLY</strong> "hello.py". If your tests didn't pass and you're still not sure why you're getting the error, feel free to ask your TA. 
+If the tests don't pass, you may get some error message that may or may not be obvious at this point. Don't worry - if the tests didn't pass, take a minute to think if your print statement is <strong>EXACTLY</strong> like stated in the lab instructions (including the same capitalization, spaces, punctuation, etc.) and the file name is <strong>EXACTLY</strong> 'hello.py'. If your tests didn't pass and you're still not sure why you're getting the error, feel free to ask your TA. 
 
 ## Final Step:  Log Out
 
