@@ -1,5 +1,5 @@
 ---
-title: "CS8 open lab hours, W18"
+title: "CS8 Open Lab Hours, W18"
 layout: default
 ready: true
 ---
