@@ -13,7 +13,7 @@ In this lab, you'll practice:
 * Testing those functions interactively at the Python prompt
 * Creating a file of automatic test cases for those functions
 * Running those test cases
-* Submitting your functions and test cases to submit.cs for grading
+* Submitting your functions and test cases to Gradescope for grading
 
 
 # Step 0: Install pytest for your account (or on your machine)
