@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab01
-ready: false
+ready: true
 desc: "FtoC and CtoF with test cases"
 assigned: 2018-01-24 8:00:00.00-7
 due: 2018-01-28 23:59:59.59-7
@@ -99,7 +99,7 @@ Type in the `import math`, followed by `math.sqrt(2)`.  It should look like this
 >>> 
 ```
 
-Note that the `import` statement allows your program to use other code (libraries) that you didn't write yourself (someone else did). There are a lot of libraries that come with programming language (such as `math`), and some libraries that can be downloaded and imported into your program (see Section 1.2 in Perkovic). In either case, using libraries help developers focus on solving their problems without having to re-implement common functionality. 
+Note that the `import` statement allows your program to use other code (libraries) that you didn't write yourself (someone else did). There are a lot of libraries that come with programming language (such as `math`), and some libraries that can be downloaded and imported into your program (see Section 1.2 in Perkovic). In either case, using libraries help developers focus on solving their problems and manage their code without having to re-implement certain functionality. 
 
 The value we get back is the square root of 2, which is an irrational number&mdash;its decimal representation goes on forever.  Unfortunately, real world computing devices typically store numbers with a finite number of decimal places&dagger;. So, the representation we see for the square root of two, $$ \sqrt{2} $$ is, in fact an approximation.
 
@@ -204,7 +204,7 @@ def fToC(fTemp):
 def cToF(cTemp):
     return cTemp + 32 # TODO: Fix this line of code
 ``` 
-The code above is how we define functions in python. We will work on defining our own functions throughout the course. On a very high level, the `def fToC(fTemp):` and `def cToF(cTemp)` is what we call a function <strong>signature</strong>. In the function signature of `def fToC(fTemp):`, the keyword `def` tells python we are defining a function, `fToC` is the name of the function and `fTemp` is the function's parameter enclosed in parenthesis (note, there can be zero or more parameters in a function, but in this case there is only one). The `return` keyword is used to pass back a value to whoever used the function. In this case, the function `fToC(fTemp)` returns the celsius value of a fahrenheit value (`fTemp`), and the function `cToF(cTemp)` returns the fahrenheit value of a celsius value (`cTemp`). 
+The code above is how we define functions in python. We will work on defining our own functions throughout the course. On a very high level, the `def fToC(fTemp)` and `def cToF(cTemp)` is what we call a function <strong>signature</strong>. In the function signature of `def fToC(fTemp)`, the keyword `def` tells python we are defining a function, `fToC` is the name of the function and `fTemp` is the function's parameter enclosed in parenthesis (note, there can be zero or more parameters for a function, but in this case there is only one). The `return` keyword is used to pass back a value to whoever used the function. In this case, the function `fToC(fTemp)` returns the celsius value of a fahrenheit value we passed into the function (`fTemp`). The function `cToF(cTemp)` returns the fahrenheit value of a celsius value we passed into this function (`cTemp`). 
       
 # Step 4: Test your code by hand
 
@@ -474,7 +474,7 @@ division are done before addition and subtraction. Some examples:
   you must use parentheses, e. g. `(x + 2) * 3` or `(x - 6) / 2`
 
 When you replace `return ftemp - 32.0` with the correct formula for
-converting a Fahrenheit temperature to Celsius, you should leave out
+converting a Fahrenheit temperature to Celsius, you should remove
 the comment that says `# TODO: Fix this line of code `.
 
 You'll also want to replace the similar line in the cToF function.
@@ -504,9 +504,9 @@ convert.py ....
 169-231-175-204:lab01 cgaucho$ 
 ```
 
-At that point, you are ready to submit your work to submit.cs
+At that point, you are ready to submit your work to Gradescope.
 
 # Step 9: Submit your `convert.py` file to Gradescope
 
-Navigate to the Lab assignment "Lab01" and upload your `convert.py` similar to how you submitted `hello.py` for Lab00. Gradescope will check your `fToC(fTemp)` and `cToF(cTemp)` functions are correct. If your tests do not pass, go back to these functions and double-check your conversion formulas and function syntax.
+Navigate to the Lab assignment "Lab01" and upload your `convert.py` similar to how you submitted `hello.py` for Lab00. Gradescope will check if your `fToC(fTemp)` and `cToF(cTemp)` functions are correct. If your tests do not pass, go back to these functions and double-check your conversion formulas and function syntax.
 
