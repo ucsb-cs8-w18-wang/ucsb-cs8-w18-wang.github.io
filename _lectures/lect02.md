@@ -10,7 +10,7 @@ date: 2018-01-18 14:00:00.00-7:00
 
 '''
 Open Lab Hours Tomorrow (Friday 1/19) 1 - 5pm
-    - 1 - 2 CS 8 tutors available during that time
+    1 - 2 CS 8 tutors available during that time
 '''
 
 '''
@@ -149,18 +149,4 @@ taxAmount = totalBill * TAX_RATE
 tipAmount = totalBill * (tipPercentage / 100)
 print("The total amount to pay is $", totalBill + taxAmount + tipAmount)
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
