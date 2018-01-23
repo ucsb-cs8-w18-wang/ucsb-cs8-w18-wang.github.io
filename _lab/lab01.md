@@ -262,7 +262,7 @@ def test_cToF_boiling():
 
 These are automated tests that use a module known as `pytest`.  When defining tests using the `pytest` module, we typically define functions that:
 
-* have names that start with `test_` or end with `_test`
+* have names that start with `test_`.
 * end with exactly one `assert` statement&mdash;that is, the keyword `assert` followed by a boolean expresssion.  
 
 If the expresssion after `assert` is true, the test passes, otherwise it fails.
