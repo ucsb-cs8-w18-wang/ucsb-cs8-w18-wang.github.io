@@ -68,10 +68,10 @@ name = "Richert"
 print(add_to_end(name, "!"))
 print(name)
 
-# When immutable types are passed into a function, a
+# When immutable types are changed in a function, a local
 # COPY of the data is made and used within the function.
 # Once the function returns, the immutable variable
-# does not change.
+# does not change (See Chapter 3.5)
 
 def add_to_list(L, i):
     ''' Returns a list with value i appended to it '''
@@ -84,7 +84,7 @@ print(add_to_list(someList, 10))
 print(someList)
 
 ''' When mutable values are passed into a function,
-the actual value (not a copy) is modified '''
+the actual value is modified '''
 
 ''' "None" return type '''
 
