@@ -307,7 +307,7 @@ Complete the `drawFace()` function definition (completing each of the "TODO" par
 
 An example face can look like this
 
-![tkinter Face](face.PNG)
+![tkinter Face](face.png)
 
 # Step 10: Uploading your files to Gradescope
 
