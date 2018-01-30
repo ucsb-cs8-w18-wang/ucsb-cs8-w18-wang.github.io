@@ -182,7 +182,7 @@ Once you've submitted and you see that you have 20/60 points, you are ready to c
 
 # Step 7: Write a `areaTriangle` function and test cases.
 
-You will write your own function `areaTriangle(base, height)` and some test cases in your {{page.num}}.py file. Be sure you define your function's signature with the exact name shown here. It's also a good habit to define comments for all the functions you write. Include a comment for 'areaTriangle' to describe what this function does. Note that the function comments have to either be in a string, enclosed in triple single-quotes, or enclosed in triple double-quotes (as shown in the `perimRect` function and explained in the textbook). Your function should return the area of a triangle using the base and height parameter values.
+You will write your own function `areaTriangle(base, height)` and some test cases in your {{page.num}}.py file. Be sure you define your function's signature with the exact name shown here. It's also a good habit to define comments for all the functions you write. Include a comment for 'areaTriangle' to describe what this function does. Note that the function comments have to either be in a string (as explained in the textbook), enclosed in triple single-quotes, or enclosed in triple double-quotes (as shown in the `perimRect` function). Your function should return the area of a triangle using the base and height parameter values.
 
 You should try to make the function pass the test cases that you put in.
 
