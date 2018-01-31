@@ -2,7 +2,7 @@
 num: "Lecture 4"
 desc: "Immutable vs. Immutable, Python Testing"
 ready: true
-date: 2018-01-25 14:30:00.00-7:00
+date: 2018-01-25 14:00:00.00-7:00
 ---
 
 ```python
