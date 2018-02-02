@@ -7,6 +7,7 @@ date: 2018-02-01 14:00:00.00-7:00
 
 # CS 8, 2-1-18
 
+```
 '''
 # Namedtuple Review
 
@@ -146,7 +147,7 @@ your own) in our programming files
     initializing variables, calling print statements, etc.
 - For an example, see https://ucsb-cs8.github.io/ptopics/main_blocks/
 '''
-
+```
     
 
 
