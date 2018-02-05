@@ -105,10 +105,10 @@ def computeGrade(percentage):
     - Return the corresponding letter grade string based on the value of
     percentage using the following scale:
     [100 - 90]: 'A'
-    [90 - 80] : 'B'
-    [80 - 70] : 'C'
-    [70 - 60] : 'D'
-    [60 - 0]  : 'F'
+    (90 - 80] : 'B'
+    (80 - 70] : 'C'
+    (70 - 60] : 'D'
+    (60 - 0]  : 'F'
     - If percentage is not a number type (int or float) OR if percentage is
     outside the range of [100 - 0], return an empty string ("").
     '''
@@ -135,8 +135,8 @@ def expensiveBooks(price, listOfBooks):
     - Note: You must obtain values of a book object using the name of
     the object's attributes (.title, .author, .price) instead of indexing
     them for full credit (as discussed in lecture). 
-    - Hint: Think of appending book titles to a list when the cost of the
-    book is greater than the value price, and returning the list of book
-    titles.
+    - Hint: Think of appending book titles to a list (recall .append) when
+    the cost of the book is greater than the value price, and returning the
+    list of accumulated book titles.
     '''
     return "stub"
