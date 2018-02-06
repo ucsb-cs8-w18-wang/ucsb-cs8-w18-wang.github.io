@@ -34,7 +34,7 @@ In this lab, you will need to create two files:
 * `{{page.num}}_tests.py` - file containing test cases
 * Please comment you and your partner's name (if applicable) at the top of each file.
 
-Starter code is provided for you and are located at:
+Starter code is provided for you and are located at (you may need to refresh the page if the links do not load immediately):
 * <https://ucsb-cs8-w18-wang.github.io/lab/lab03/lab03.py>
 * <https://ucsb-cs8-w18-wang.github.io/lab/lab03/lab03_tests.py>
 
