@@ -79,7 +79,7 @@ def abbreviate(word):
 def hasMultiplesOf(x, listOfNums):
     '''
     - Returns True if ALL items in listOfNums are multiples of x.
-    - theList can be any type with elements of any type.
+    - theList can have elements of any type.
     - If listOfNums is not a list type, return False.
     - If listOfNums is empty, return False since no items are a multiple
     of x
