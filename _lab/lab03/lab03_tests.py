@@ -5,13 +5,13 @@ from lab03 import notStringContainingR
 
 # Tests for notStringContainingR
 def test_notStringContainingR_1():
-    assert notStringContainingR("word") == True
+    assert notStringContainingR("word") == False
 
 def test_notStringContainingR_2():
-    assert notStringContainingR("super") == True
+    assert notStringContainingR("super") == False
 
 def test_notStringContainingR_3():
-    assert notStringContainingR("ReEl") == True
+    assert notStringContainingR("ReEl") == False
 
 def test_notStringContainingR_4():
     assert notStringContainingR("") == True
