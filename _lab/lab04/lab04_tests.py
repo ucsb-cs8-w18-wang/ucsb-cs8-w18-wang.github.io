@@ -52,7 +52,7 @@ def test_maxNum_4():
     assert maxNum("1,2,3") == None
 
 def test_maxNum_5():
-    assert maxNum([4,4,4,3]) == 4
+    assert maxNum([4,4,"4",3]) == None
 
 ####################
 from lab04 import indexOf

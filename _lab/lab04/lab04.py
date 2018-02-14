@@ -55,6 +55,7 @@ def maxNum(listOfNums):
     not a numerical type (int or float).
         Note: This is an example of using python's None type as a
         sentinal value.
+    - Your solution should use a for loop and not use the max() function.
     - Hint: You can assign a default maxValue variable as the 1st element
     of listOfNums if valid. You can then iterate through listOfNums and
     compare the current maxValue with each element in the list, updating
