@@ -2,7 +2,7 @@
 
 # lab05.py (solutions)
 
-# From lecture
+# From lecture - INCLUDE THiS FUNCTION IN YOUR SUBMISSION
 def create_screen(rows, columns):
     '''
     Creates a screen of rows x columns pixels
