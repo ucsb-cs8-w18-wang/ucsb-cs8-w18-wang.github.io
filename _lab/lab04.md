@@ -58,4 +58,4 @@ You are encouraged to try submitting to Gradescope periodically for several reas
 
 # Upload `{{page.num}}.py` and `{{page.num}}_tests.py` to Gradescope.
 
-Once you're done with writing your functions, navigate to the Lab assignment "Lab03" on Gradescope and upload your `{{page.num}}.py` and `{{page.num}}_tests.py` files. <strong>*Remember to add your partner to Groups Members for this submission on Gradescope if applicable. At this point, if you worked in a pair, it is a good idea for both partners to log into Gradescope and see if you can see the uploaded files for Lab03.*</strong>
+Once you're done with writing your functions, navigate to the Lab assignment "Lab04" on Gradescope and upload your `{{page.num}}.py` and `{{page.num}}_tests.py` files. <strong>*Remember to add your partner to Groups Members for this submission on Gradescope if applicable. At this point, if you worked in a pair, it is a good idea for both partners to log into Gradescope and see if you can see the uploaded files for Lab04.*</strong>
