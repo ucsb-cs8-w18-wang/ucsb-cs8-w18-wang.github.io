@@ -1,6 +1,6 @@
 ---
 num: "Lecture 12"
-desc: "Midterm 2 Review"
+desc: "Sets and Dictionaries"
 ready: false
-date: 2018-02-27 14:30:00.00-7:00
+date: 2018-03-06 14:30:00.00-7:00
 ---
