@@ -21,7 +21,7 @@ def rollDistribution(n):
     list of ints, diceTally, that keeps track of the number of times
     a certain sum occurs.
     - Use the technique discussed in lecture where you can create a
-    list of 14 integers, where the index of the list represents a
+    list of 13 integers, where the index of the list represents a
     particular dice roll value, and the value of that position represents
     the number of times that dice roll occurred.
     - Note: diceTally[0] and diceTally[1] will always be 0 since
@@ -40,7 +40,7 @@ def printDistribution(diceTally):
     - This function does not return anything since it is simply
     printing to the console.
     - Note: Your algorithm must iterate and print each dice roll value in
-    a loop. Do not simply have 10 print statements for each dice roll value.
+    a loop. Do not simply have 11 print statements for each dice roll value.
     - Be VERY PRECISE in your format. Each character matters for full credit.
     '''
     return
