@@ -1,0 +1,16 @@
+obi      5
+nub      5
+nob      5
+nib      5
+bun      5
+bio      5
+bin      5
+bi       4
+uni      3
+ion      3
+on       2
+nu       2
+no       2
+in       2
+u        1
+i        1
