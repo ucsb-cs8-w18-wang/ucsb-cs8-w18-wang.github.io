@@ -27,6 +27,12 @@ Once you and your partner are in agreement, choose an initial driver and navigat
 
 # Instructions
 
+<strong>Step 0:</strong> For the first part of this lab, we ask you to complete a short End-of-Quarter survey for this course.
+* This survey will be emailed to all students by the start time of your Lab section
+* Participation in this survey is worth 10 percent of your lab grade (easy points!)
+* Your answers are anonymous, so we value your honest feedback
+* Participation <strong>must be</strong> done in your lab section. Our TAs will manually confirm your participation during your lab section
+
 In this lab, you will need to create two files:
 * `{{page.num}}.py` - file containing function definitions
 * `{{page.num}}_student_tests.py` - file containing test cases. A sample test is provided for each function. You will write 3 - 5 (or more) additional tests to confirm your code works as expected.
