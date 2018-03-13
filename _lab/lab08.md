@@ -35,7 +35,7 @@ Once you and your partner are in agreement, choose an initial driver and navigat
 
 In this lab, you will need to create two files:
 * `{{page.num}}.py` - file containing function definitions
-* `{{page.num}}_student_tests.py` - file containing test cases. A sample test is provided for each function. You will write 3 - 5 (or more) additional tests to confirm your code works as expected.
+* `{{page.num}}_student_tests.py` - file containing test cases. A sample test is provided for each function. You will write 3 - 5 (or more) additional tests per function to confirm your code works as expected.
 * <strong>Please comment you and your partner's name (if applicable) at the top of each file.</strong>
 
 Starter code is provided for you and are located at (you may need to refresh the page if the links do not load immediately):
