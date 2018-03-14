@@ -5,6 +5,8 @@ ready: true
 date: 2018-03-13 14:00:00.00-7:00
 ---
 
+[Hand traced examples in lecture](https://github.com/ucsb-cs8-w18-wang/ucsb-cs8-w18-wang.github.io/blob/master/_lectures/3_13_recursion.pdf)
+
 ```
 # CS 8, 3-13-18
 
